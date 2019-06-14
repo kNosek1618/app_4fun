@@ -16,3 +16,9 @@ y = temp
 #two kind of writing numbers in print function
 print("The value of x after swapping: " + str(x))
 print('The value of y after swapping: {}'.format(y))
+
+# # # RESULT # # #
+#Enter value of x: 5
+#Enter value of y: 10
+#The value of x after swapping: 10
+#The value of y after swapping: 5
