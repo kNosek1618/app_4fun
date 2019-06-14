@@ -13,6 +13,6 @@ temp = x
 x = y
 y = temp
 
-
+#two kind of writing numbers in print function
 print("The value of x after swapping: " + str(x))
 print('The value of y after swapping: {}'.format(y))
